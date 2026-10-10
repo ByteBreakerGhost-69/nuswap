@@ -1,5 +1,5 @@
 <!-- Nuswap preview screenshot -->
-![Nuswap — Gas-Efficient Token Swaps](![Nuswap Preview](public/nuswap.png))
+![Nuswap Preview](public/nuswap.png)
 
 # Nuswap
 
