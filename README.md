@@ -1,5 +1,5 @@
 <!-- Nuswap preview screenshot -->
-![Nuswap Preview](public/nuswap.png)
+<img src="public/nuswap.png" alt="Nuswap Preview" width="800%">
 
 # Nuswap
 
